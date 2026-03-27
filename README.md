@@ -27,6 +27,12 @@
   <a href="https://github.com/Salmonnaik" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Salmonnaik" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/dream_boy_salmon" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dream_boy_salmon" height="30" width="40" />
+  </a>
+  <a href="https://x.com/BodaSalmonnaik" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BodaSalmonnaik" height="30" width="40" />
+  </a>
 </p>
 
 ---
