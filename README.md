@@ -53,12 +53,15 @@
 ## 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salmonnaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Salmon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmonnaik&theme=tokyonight&hide_border=true" alt="Salmon's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Salmonnaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Salmon's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonnaik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Salmonnaik&theme=tokyonight&hide_border=true" alt="Salmon's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonnaik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
