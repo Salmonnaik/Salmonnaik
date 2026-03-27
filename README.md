@@ -50,26 +50,18 @@
 
 ---
 
-## 📊 GitHub Activity & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salmonnaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Salmon's GitHub Stats" />
+  <a href="https://github.com/Salmonnaik">
+    <img src="https://img.shields.io/badge/Total%20Repos-Public-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/Salmonnaik?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0e75b6" />
+    <img src="https://img.shields.io/github/stars/Salmonnaik?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=yellow" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Salmonnaik&theme=tokyonight&hide_border=true" alt="Salmon's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonnaik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Salmonnaik&theme=tokyonight&no-frame=true&margin-w=4" alt="trophies" />
 </p>
 
 ---
