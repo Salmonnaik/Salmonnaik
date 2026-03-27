@@ -41,7 +41,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salmonnaik" height="30" width="40" />
   </a>
   <a href="https://learning.ccbp.in/progress/public?uid=189642d1-1e62-4aa8-8263-e4b778f181b1" target="_blank">
-    <img align="center" src="https://assets.ccbp.in/frontend/media/nxtwave/nxtwave-logo.png" alt="NxtWave" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/NxtWave-6f42c1?style=flat&logo=lightning&logoColor=white" alt="NxtWave" height="25" />
   </a>
 </p>
 
@@ -51,13 +51,13 @@
 
 <p align="center">
   <a href="https://learning.ccbp.in/progress/public?uid=189642d1-1e62-4aa8-8263-e4b778f181b1" target="_blank">
-    <img src="https://img.shields.io/badge/NxtWave-Industry%20Ready%20Developer-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5QMKCgomZyhgOgAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAg0lEQVQoz2NgoBAgKCv/z8DAwMDAwMDw//9/BgYGBgYGBuL0MTAwMDAwMDCQpI+BgYGBgYGBgaR9DAwMDAwMDAwkq2dgYGBgYGBgIFkfAwMDAwMDAwPJ+hkYGBgYGBgYSNbPwMDAwMDAwECyfgYGBgYGBgYGkvUzMDAwMDAwMJCsHwCEFSI+w9Bi0QAAAABJRU5ErkJggg==&logoColor=white&color=6f42c1" />
+    <img src="https://img.shields.io/badge/NxtWave-Industry%20Ready%20Developer-6f42c1?style=for-the-badge&logo=lightning&logoColor=white" alt="NxtWave" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://learning.ccbp.in/progress/public?uid=189642d1-1e62-4aa8-8263-e4b778f181b1">
-    <img src="https://img.shields.io/badge/Click%20to%20View-My%20NxtWave%20Progress-purple?style=for-the-badge" alt="NxtWave Progress" />
+    <img src="https://img.shields.io/badge/View%20My%20NxtWave%20Progress-%E2%86%92-purple?style=for-the-badge" alt="NxtWave Progress" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
