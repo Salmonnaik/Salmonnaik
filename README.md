@@ -16,11 +16,9 @@
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/salmon-naik-boda)**
 - 🧩 Check my LeetCode: **[salmonnaik](https://leetcode.com/u/salmonnaik/)**
 - 🎓 NxtWave Learning Progress: **[View Profile](https://learning.ccbp.in/progress/public?uid=189642d1-1e62-4aa8-8263-e4b778f181b1)**
-- 📄 Know about my experiences: **[View Resume](https://drive.google.com/file/d/1at0bf_Hk-ZSV7rXFNPXAW8nTnNnE5SEt/view?usp=sharing)**
+- 📄 Know about my experiences: **[View Resume](https://drive.google.com/file/d/1fMIHXUpdcS_7jDskSXxn50TOxfoHiIQG/view?usp=drive_link)**
 - 🚀 NxtWave CCBP Progress: **[View Profile](https://learning.ccbp.in/progress/public?uid=189642d1-1e62-4aa8-8263-e4b778f181b1)**
 - ⚡ Fun fact: *I think semicolons ; have feelings too.*
----
-
 ## 🔗 Connect with me
 
 <p align="left">
