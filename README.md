@@ -6,8 +6,6 @@
 </p>
 
 ---
-## Development
-
 - 🌱 Currently mastering the **MERN Stack** — React.js, Node.js, Express.js & MongoDB
 - 🔨 Actively building real-world projects like **authentication systems** and **deployed web apps**
 - 🤖 Exploring **AI tools** and **product thinking** to build smarter, user-centric solutions
